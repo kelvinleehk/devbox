@@ -30,12 +30,12 @@ include avahi-daemon
 include mysql
 include php
 include nginx
-include supervisor
-include sphinx
+# include supervisor
+# include sphinx
 include redis
 include git
 include nodejs
 include composer
-include beanstalkd
-include ngrok
-include postgresql
+# include beanstalkd
+# include ngrok
+# include postgresql
